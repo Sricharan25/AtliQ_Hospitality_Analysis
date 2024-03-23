@@ -13,3 +13,4 @@ Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 # Provided Mock-up Dashboard
+<a href="https://github.com/Sricharan25/AtliQ_Hospitality_Analysis/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png">
