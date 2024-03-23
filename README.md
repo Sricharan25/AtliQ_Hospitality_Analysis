@@ -33,4 +33,4 @@ Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 AtliQ lost around 298 Million in cancellation. 
 Elite type rooms has the most booking and as well higher cancellation rate.
 
-link to <a hef="https://app.powerbi.com/view?r=eyJrIjoiYThhN2M0MmYtY2YwYS00NDI0LTkzMGEtYmI0ZDJjY2Q2N2UxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">live dashboard</a>
+link to <a href="https://app.powerbi.com/view?r=eyJrIjoiYThhN2M0MmYtY2YwYS00NDI0LTkzMGEtYmI0ZDJjY2Q2N2UxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">live dashboard</a>
